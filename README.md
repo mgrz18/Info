@@ -1,4 +1,4 @@
 - Hi, I’m @Miguelospace
 - I’m interested in low-level programming, microcontrollers and networks
-- I’m currently studying at Universidad Autónoma de Zacatecas
+- I’m a Computer engineering student
 - You can mail me at: miguel.gara@outlook.com
