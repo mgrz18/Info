@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 I'm Miguelospace.
 - 🔭 I’m currently working on decrypting files
-- 🌱 I’m currently learning assembly language
+- 🌱 I’m currently learning assembly language & integrated circuits
 - 💬 Ask me about anything
 - 📫 Contact via outlook
 
@@ -30,6 +30,7 @@ I'm Miguelospace.
  
 
   [![email](https://img.shields.io/badge/Email-miguel.gara@outlook.com-red?style=flat-square&logo=gmail)](mailto:miguel.gara@outlook.com)
+  [![Gist.GitHub:yuk7](https://img.shields.io/badge/Gist-Miguelospace-red?style=flat-square&logo=GitHub)](https://gist.github.com/Miguelospace)
 <!--
   [![keybase](https://img.shields.io/badge/Keybase-yuk7-blue?style=flat-square&logo=keybase)](https://keybase.io/yuk7)
   [![telegram](https://img.shields.io/badge/Telegram-yuk__7-blue?style=flat-square&logo=telegram)](https://t.me/yuk_7)
