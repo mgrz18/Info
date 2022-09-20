@@ -28,8 +28,9 @@ I'm Miguelospace.
   [![IDE:VIM](https://img.shields.io/badge/IDE-VIM-green?style=flat-square&logo=VIM)](https://www.vim.org/)
   <!-- [![DE:KDE](https://img.shields.io/badge/DE-KDE-blue?style=flat-square&logo=KDE)](https://www.gnome.org/) -->
  
+
+  [![email](https://img.shields.io/badge/Email-miguel.gara@outlook.com-red?style=flat-square&logo=outlook)](mailto:miguel.gara@outlook.com)
 <!--
-  [![email](https://img.shields.io/badge/Email-yukx00@gmail.com-red?style=flat-square&logo=gmail)](mailto:miguel.gara@outlook.com)
   [![keybase](https://img.shields.io/badge/Keybase-yuk7-blue?style=flat-square&logo=keybase)](https://keybase.io/yuk7)
   [![telegram](https://img.shields.io/badge/Telegram-yuk__7-blue?style=flat-square&logo=telegram)](https://t.me/yuk_7)
   [![paypal](https://img.shields.io/badge/PayPal-yuk77-blue?style=flat-square&logo=paypal)](https://paypal.me/yuk77)
