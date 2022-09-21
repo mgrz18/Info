@@ -21,20 +21,8 @@ I'm Miguelospace.
 
 <div align="center">
   
-  <!--
-  [![OS:ArchLinux](https://img.shields.io/badge/OS-ArchLinux-blue?style=flat-square&logo=arch-linux)](https://archlinux.org)
-  [![OS:Windows11](https://img.shields.io/badge/OS-Windows11-blue?style=flat-square&logo=microsoft)](https://www.microsoft.com)
-  -->
-  <!-- [![OS:Android13](https://img.shields.io/badge/OS-Android12-green?style=flat-square&logo=android)](https://www.android.com/) -->
-  <!--
-  [![IDE:VSCode](https://img.shields.io/badge/IDE-VSCode-blue?style=flat-square&logo=visualstudiocode)](https://code.visualstudio.com/)
-  [![IDE:VIM](https://img.shields.io/badge/IDE-VIM-green?style=flat-square&logo=VIM)](https://www.vim.org/)
-  -->
-  <!-- [![DE:KDE](https://img.shields.io/badge/DE-KDE-blue?style=flat-square&logo=KDE)](https://www.gnome.org/) -->
- 
-
-  [![email](https://img.shields.io/badge/Email-miguel.gara@outlook.com-red?style=flat-square&logo=gmail)](mailto:miguel.gara@outlook.com)
-  [![Gist.GitHub:yuk7](https://img.shields.io/badge/Gist-Miguelospace-red?style=flat-square&logo=GitHub)](https://gist.github.com/Miguelospace)
+  [![email](https://img.shields.io/badge/Email-miguel.gara@outlook.com-green?style=flat-square&logo=gmail)](mailto:miguel.gara@outlook.com)
+  [![Gist.GitHub:Miguelospace](https://img.shields.io/badge/Gist-Miguelospace-blue?style=flat-square&logo=GitHub)](https://gist.github.com/Miguelospace)
 <!--
   [![keybase](https://img.shields.io/badge/Keybase-yuk7-blue?style=flat-square&logo=keybase)](https://keybase.io/yuk7)
   [![telegram](https://img.shields.io/badge/Telegram-yuk__7-blue?style=flat-square&logo=telegram)](https://t.me/yuk_7)
