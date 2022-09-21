@@ -1,4 +1,4 @@
-### Hola!! 👋
+### 👋
 
 <!--
 Here are some ideas to get you started:
@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 -->
 
 I'm Miguelospace.
-- 🔭 I’m currently working on decrypting files
-- 🌱 I’m currently learning assembly language & integrated circuits
-- 💬 Ask me about anything
-- 📫 Contact via outlook
+- ⚡ I’m currently working on decrypting files
+- 🔭 I’m currently learning assembly language & integrated circuits
+<!-- - 💬 Ask me about anything -->
+<!-- - 📫 Contact via outlook -->
 
 <div align="center">
   
