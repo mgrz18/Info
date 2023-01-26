@@ -1,6 +1,6 @@
 I'm Miguelospace.
 <!-- - ⚡ I’m currently working on decrypting files -->
-- 🔭 I’m currently learning assembly language & integrated circuits
+- I’m currently learning compilers
 
 <div align="center">
   
